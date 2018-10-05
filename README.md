@@ -1,4 +1,4 @@
 # wangZhiBaoKu
 xueJiuWanShiLe
 
-Wassup！Biatch！
+Wassup! Biatch!
